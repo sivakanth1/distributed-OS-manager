@@ -30,6 +30,11 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+/lib/Widgets/firebase_options.dart
+/n/
+firebase.json
+AOS Project.pptx
+Distributed OS Manager Implementation Project Report.pdf
 
 # Symbolication related
 app.*.symbols
